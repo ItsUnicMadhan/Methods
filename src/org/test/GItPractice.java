@@ -13,4 +13,8 @@ public class GItPractice {
 	public void method3() {
 		System.out.println("Method Three");
 	}
+	
+	public void method4() {
+		System.out.println("Method four");
+	}
 }
