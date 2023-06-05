@@ -20,7 +20,7 @@ public class GItPractice {
 
 	public static void main(String[] args) {
 		GItPractice gItPractice = new GItPractice();
-		gItPractice.method1();
+		gItPractice.method5();
 		gItPractice.method2();
 		gItPractice.method3();
 		gItPractice.method4();
